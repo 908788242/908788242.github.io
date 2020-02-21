@@ -5,7 +5,7 @@
       <p><b>男</b></p>
       </td>
     <td width="25%">
-      <img src="/1580494540631.
+      <img src="/1580494540631.jpeg
                 </td>
                 </tr>
                 </table>
