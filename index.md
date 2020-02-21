@@ -12,7 +12,7 @@
                    武汉加油！中国加油！</b></p>
      </td>
     <td width="25%">
-      <img src="/1580494540631.jpeg>
+      <img src="/1580494540631.jpeg.
                 </td>
                 </tr>
                 </table>
